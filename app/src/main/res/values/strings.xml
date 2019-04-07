@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StackSolutions</string>
+    <string name="query">Enter Tag</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="views">Views:</string>
+    <string name="answers">Answers:</string>
+    <string name="score">Score:</string>
+    <string name="last_date">Last Active:</string>
+    <string name="creation_date">Creation Date:</string>
+    <string name="link">See More</string>
+    <string name="title">Title</string>
+</resources>
